@@ -1,0 +1,2 @@
+name: Hello world action on push
+on: push
